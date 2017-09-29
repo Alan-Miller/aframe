@@ -5,7 +5,7 @@ a-scene {
 
 .top-and-bottom {
   height: 25vh;
-  background-color: blue;
+  background-color: #333;
   z-index: 20;
   font-family: sans-serif;
   color: lightblue;
