@@ -1,0 +1,12 @@
+a-scene {
+  height: 50vh;
+  overflow: hidden;
+}
+
+.top-and-bottom {
+  height: 25vh;
+  background-color: blue;
+  z-index: 20;
+  font-family: sans-serif;
+  color: lightblue;
+}
